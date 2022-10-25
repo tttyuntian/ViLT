@@ -12,3 +12,7 @@ result
 weights/
 scripts/
 demos/
+
+# Customized
+env/
+
